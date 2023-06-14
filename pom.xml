@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>demo-design-strategy-pattern</module>
+        <module>demo-design-factory-method</module>
     </modules>
 
     <properties>
@@ -25,6 +26,11 @@
             <artifactId>junit-jupiter</artifactId>
             <version>RELEASE</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.62</version>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
