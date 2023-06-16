@@ -1,5 +1,6 @@
-package com.design.factory;
+package com.design;
 
+import com.design.factory.ICacheAdapter;
 import com.design.util.ClassLoaderUtils;
 
 import java.lang.reflect.InvocationHandler;

@@ -1,6 +1,6 @@
 package com.design.factory.impl;
 
-import com.design.IIR;
+import com.design.matter.IIR;
 import com.design.factory.ICacheAdapter;
 
 import java.util.concurrent.TimeUnit;

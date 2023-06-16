@@ -1,4 +1,7 @@
-package com.design.factory;
+package com.design;
+
+import com.design.JDKInvocationHandler;
+import com.design.factory.ICacheAdapter;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

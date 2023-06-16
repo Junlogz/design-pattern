@@ -1,6 +1,6 @@
 package com.design.factory.impl;
 
-import com.design.EGM;
+import com.design.matter.EGM;
 import com.design.factory.ICacheAdapter;
 
 import java.util.concurrent.TimeUnit;
