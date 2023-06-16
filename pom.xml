@@ -13,6 +13,7 @@
         <module>demo-design-strategy-pattern</module>
         <module>demo-design-factory-method</module>
         <module>demo-design-template-method</module>
+        <module>demo-design-abstract-factory</module>
     </modules>
 
     <properties>

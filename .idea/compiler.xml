@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo-design-abstract-factory" />
         <module name="demo-design-template-method" />
         <module name="demo-design-strategy-pattern" />
         <module name="demo-design-factory-method" />
